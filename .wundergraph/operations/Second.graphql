@@ -1,0 +1,6 @@
+query Second {
+	countries_continents {
+		name
+		code
+	}
+}

@@ -1,0 +1,6 @@
+query First {
+	countries_continents {
+		name
+		code
+	}
+}
